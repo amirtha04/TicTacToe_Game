@@ -11,4 +11,4 @@ This is a simple implementation of the classic **Tic Tac Toe** game built with *
 
 ## Demo
 
-![Tic Tac Toe Gameplay](src\components\assets\screenshot.PNG)  
+![Tic Tac Toe Gameplay](src/components/assets/screenshot.PNG)  
